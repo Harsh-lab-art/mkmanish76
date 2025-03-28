@@ -1,4 +1,3 @@
-//Another way of passing Array As Argument
 #include <stdio.h>
  void display(int []); 
  int main()
